@@ -175,7 +175,7 @@ const main = async () => {
     const image = {
       type: ComponentType.Image,
       id: -ComponentType.Image,
-      url: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/component1.jpg',
+      url: 'https://bpic.588ku.com/element_pic/23/03/24/a32ce4f9f25a97149931d00178042c39.jpg',
       go: '',
       text: '只有认可，才能强大',
     }
