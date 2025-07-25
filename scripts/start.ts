@@ -177,7 +177,7 @@ const main = async () => {
       id: -ComponentType.Image,
       url: 'https://bpic.588ku.com/element_pic/23/03/24/a32ce4f9f25a97149931d00178042c39.jpg',
       go: '',
-      text: '只有认可，才能强大',
+      text: '',
     }
     if (idx >= 0) {
       component.components[idx] = {
